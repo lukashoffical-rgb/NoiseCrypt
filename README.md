@@ -13,7 +13,7 @@ cd NoiseCrypt
 npm install terser
 npm install
 
-```bash
+```
 # How to use NoiseCrypt
 node noise.js input.js output.js
 Example : node noise.js case.js case-enc.js
