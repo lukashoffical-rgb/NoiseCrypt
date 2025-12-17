@@ -1,2 +1,4 @@
 # NoiseCrypt
-NoiseCrypt is a JavaScript encoder that applies multi-layer encryption, heavy noise injection, and runtime decryption.
+NoiseCrypt is a JavaScript encoder script used to protect source code with techniques, layered encryption, and large noise insertion to make the code difficult to read, analyze, or reverse engineer.
+
+#
