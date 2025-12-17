@@ -13,6 +13,7 @@ pkg install nodejs git -y
 git clone https://github.com/lukashoffical-rgb/NoiseCrypt.git
 cd NoiseCrypt
 npm install terser
+npm install chalk@4
 npm install
 ```
 ---
