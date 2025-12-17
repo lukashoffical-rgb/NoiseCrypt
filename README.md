@@ -13,16 +13,16 @@ cd NoiseCrypt
 npm install terser
 npm install
 
-```
+
 # How to use NoiseCrypt
+```bash
 node noise.js input.js output.js
 Example : node noise.js case.js case-enc.js
 if the file is in the sdcard 
 node noise.js /sdcard/case.js /sdcard/case-enc.js
 
-
+```bash
 👤 Author
-```
 GitHub : @lukashoffical-rgb
 Project : NoiseCrypt
 Language : JavaScript (Node.js)
