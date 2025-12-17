@@ -1,29 +1,33 @@
+
 # 🔒 NoiseCrypt
 
-NoiseCrypt is a JavaScript encoder script used to protect source code using layered encryption techniques and large noise insertion, making the code difficult to read, analyze, or reverse engineer.
+<p align="center">
+  <img src="https://files.catbox.moe/r7q9jk.png" alt="NoiseCrypt Banner" width="650">
+</p>
+NoiseCrypt is a JavaScript encoder script used to protect source code with techniques, layered encryption, and large noise insertion to make the code difficult to read, analyze, or reverse engineer
 
---------------------------
 
-```bash
 # ⚙️ How to Install NoiseCrypt
-
+```bash
 pkg install nodejs git -y
 git clone https://github.com/lukashoffical-rgb/NoiseCrypt.git
 cd NoiseCrypt
 npm install terser
 npm install
+```
+---
 
-
-# How to use NoiseCrypt
+## 🚀 How to Use NoiseCrypt
 ```bash
 node noise.js input.js output.js
-Example : node noise.js case.js case-enc.js
-if the file is in the sdcard 
+Example: node noise.js case.js caseEnc.js
+If the file is in the SDCard
 node noise.js /sdcard/case.js /sdcard/case-enc.js
+```
+---
 
-```bash
-👤 Author
-GitHub : @lukashoffical-rgb
-Project : NoiseCrypt
-Language : JavaScript (Node.js)
-Telegram : https://t.me/lukash_fatality
+# 👤 Author
+**GitHub : @lukashoffical-rgb<br>
+Project : NoiseCrypt<br>
+Language : JavaScript (Node.js)<br>
+Telegram : https://t.me/lukash_fatality**
