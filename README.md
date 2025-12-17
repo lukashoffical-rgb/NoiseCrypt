@@ -4,7 +4,7 @@ NoiseCrypt is a JavaScript encoder script used to protect source code using laye
 
 ---
 
-## ⚙️ How to Install NoiseCrypt
+# ⚙️ How to Install NoiseCrypt
 
 ```bash
 pkg install nodejs git -y
@@ -20,7 +20,7 @@ Example : node noise.js case.js case-enc.js
 if the file is in the sdcard 
 node noise.js /sdcard/case.js /sdcard/case-enc.js
 
-```
+```bash
 👤 Author
 
 GitHub : @lukashoffical-rgb
